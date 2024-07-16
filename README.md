@@ -1,6 +1,6 @@
 # Boggle
 
-This is a digital implementation of the classic word game, developed as a client-server application in C. This project was created for the Laboratory II course (corso A) by Denis Gabriel Craciun.
+This is a digital implementation of the classic word game, developed as a client-server application in C. This project was created for the Laboratory II course by Denis Gabriel Craciun.
 
 ## Project Overview
 
@@ -82,4 +82,4 @@ Denis Gabriel Craciun
 
 ## Acknowledgments
 
-This project was developed as part of the Laboratory II course at [Your University Name].
+This project was developed as part of the Laboratory II course at the University Of Pisa.
