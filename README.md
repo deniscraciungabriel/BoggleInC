@@ -59,3 +59,27 @@ The project implements several key algorithms, including:
 ### Execution
 
 1. Start the server:
+./executables/server <server_name> <port> [options]
+Options include paths for matrix and dictionary files.
+
+2. Start the client:
+3. ./executables/client <server_name> <port>
+**Note**: Ensure the server is running before starting any clients.
+
+## Testing
+
+While no formal test suite is included, the project has been tested using Valgrind for memory leaks, deadlocks, and race conditions.
+
+## Future Improvements
+
+- Implementation of a formal test suite
+- Further modularization of the codebase
+- Enhanced GUI features
+
+## Author
+
+Denis Gabriel Craciun
+
+## Acknowledgments
+
+This project was developed as part of the Laboratory II course at [Your University Name].
